@@ -1,2 +1,3 @@
 develop branch-file1
 Adding this line in github directly to verify fetch functionality
+Adding this line in github directly to verify pull functionality
